@@ -1,0 +1,6 @@
+[tailwind]
+compiled_css = "dist/css/styles.css"
+
+source_path = "src/css"
+
+template_paths = "index.html:src"
