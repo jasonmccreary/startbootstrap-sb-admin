@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+
+@import 'bootstrap4-shim.css';
+@import 'bootstrap-custom.css';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+
+@import 'app.css';
